@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @mopqpqua or Slava Rykov
+- 👋 Hi, I’m Slava Rykov
 - 👀 I’m interested in web development, design and music off course!
-- 🌱 I’m currently learning Vue, PHP, node/npm and all this amazing stuff.
-- 💞️ I’m looking to collaborate on simple projects, partner.
+- 🌱 I’m currently writing on Vue, JavaScripts, HTML, CSS, node/npm, PHP.
 - 📫 How to reach me:
   1. m3atyy@gmail.com
+  2. meatyy@icloud.com
 
 <!---
 mopqpqua/mopqpqua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
