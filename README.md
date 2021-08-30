@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Slava Rykov
-- 👀 I’m interested in web development, design and music off course!
-- 🌱 I’m currently writing on Vue, JavaScripts, HTML, CSS, node/npm, PHP.
+- 👀 I’m interested in web development, SPA and design!
+- 🌱 I’m currently writing on Vue, JavaScript, HTML, CSS, node/npm, PHP.
 - 📫 How to reach me:
   1. m3atyy@gmail.com
   2. meatyy@icloud.com
