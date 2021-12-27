@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Slava Rykov
-- 👀 I’m interested in web development, SPA and design!
-- 🌱 I’m currently writing on Vue, JavaScript, HTML, CSS.
-- 📫 How to reach me:
+Hello there, I\`m Slava. I\`m frontend developer and writing on JavaScript.
+
   1. m3atyy@gmail.com
   2. meatyy@icloud.com
 
