@@ -1,5 +1,3 @@
-Hello there, I\`m Slava. I\`m frontend developer and writing on JavaScript.
-
   1. m3atyy@gmail.com
   2. meatyy@icloud.com
 
