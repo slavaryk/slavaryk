@@ -15,7 +15,7 @@
 &nbsp;&nbsp;📃. https://t.me/mopqpqua
 
 <pre>
-  I am currently working as frontend developer in webstudio Flag. I am interesting in frontend and iOS development.
+  I am interesting in frontend and iOS development.
 </pre>
 
 <!---
